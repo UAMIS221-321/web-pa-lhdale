@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Odb5D+gSI6gWAL3L3rpN7nQQmthetL7uMW1QEb2j6fgq4vdkCbddPj99vDsuqy/yx1rnnQUdF8NMkuxDwoJeJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luked\\OneDrive\\Documents\\source\\repos\\spring2022\\web-pa-lhdale\\web-pa-lhdale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luked\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
